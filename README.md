@@ -1,1 +1,1 @@
-# CV
+# CV Martino Rodríguez Janicki — Estudiante de Ingeniería en Informática (UADE) En este repositorio vas a encontrar mi CV actualizado. Sobre mí: trabajo con atención al público en eventos y doy clases de taekwondo (cinturón negro). Estoy dando mis primeros pasos en programación y sistemas. Destacado académico: trabajo práctico integrador de Sistemas de Información — diagnóstico de una empresa de eventos y propuesta de solución tecnológica (CRM + sistema de gestión de compras), calificado con 10/10
